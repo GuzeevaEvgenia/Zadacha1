@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha1", "Zadacha1\Zadacha1.csproj", "{A61C55F3-2486-4FB7-879C-A907510D20CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic1", "Logic1\Logic1.csproj", "{BBAECDC4-804A-431F-B57A-900160CC69D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A61C55F3-2486-4FB7-879C-A907510D20CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61C55F3-2486-4FB7-879C-A907510D20CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61C55F3-2486-4FB7-879C-A907510D20CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61C55F3-2486-4FB7-879C-A907510D20CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAECDC4-804A-431F-B57A-900160CC69D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAECDC4-804A-431F-B57A-900160CC69D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAECDC4-804A-431F-B57A-900160CC69D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAECDC4-804A-431F-B57A-900160CC69D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1EDFE63-E5A0-462D-803A-942E05F9CB1F}
+	EndGlobalSection
+EndGlobal
